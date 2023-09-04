@@ -66,6 +66,8 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 
 
 
+
+
 **IMPORTANT SAFETY INSTRUCTIONS**
 
 
