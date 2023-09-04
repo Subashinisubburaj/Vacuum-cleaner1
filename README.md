@@ -40,5 +40,6 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 
 **GETTING TO KNOW THE PARTS**
 
+![image](https://github.com/Subashinisubburaj/Vacuum-cleaner1/assets/143898301/ebb3dc17-09b7-4feb-8fc5-3cc55189351e)
 
 
