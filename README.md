@@ -91,6 +91,8 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 **GENERAL PRECAUTIONS & RECOMMENDATIONS**
 
 $${\color{red}**IMPORTANT**}$$
+
+
 Please read all instructions before using this machine and keep this manual always at hand. Follow the instructions manual for the Ocean Blue‘s. Do not try to use it otherwise. The use of non-authorized accessories by OceanBlue could be dangerous. See section 
 **SERVICING OF DOUBLE INSULATED APPLIANCE**
 • DO NOT plug the OceanBlue into the receptacle of an incandescent light bulb, nor use extensions cords with less electrical capacity than needed.
