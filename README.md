@@ -8,4 +8,5 @@ Thank you for your confidence in our product. It is our goal to bring you into t
 If you find that you are having to empty the water pan more often than you think that you should, be aware that, in the beginning, you are picking up more dirt because of the deep dirt that is in your carpets that was not removed before. After using the OceanBlue for a short time in regular use, you should find that the amount of dirt will taper off to more “normal” expectations.You should be aware that deep dirt is the enemy of carpets.
 
 The deep dirt left in the carpet acts like little knives and slowly cuts the tufts of the carpets at the bottom as you walk on the carpet.**You may see a lot of “fuzz” coming up from the carpet in the beginning, but by removing this deep dirt, you are increasing the life of your carpet**.Remember that the OceanBlue filtration system does not clog up the airflow as you use it. You still have full power right up to when to empty the water pan.
+
 **TABLE OF CONTENTS**
