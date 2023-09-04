@@ -38,3 +38,7 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 •Durable ABS Construction • 30ft power cord • 120 volt • 7.6 AMPS • 846 WATTS • 17,300 RPM Motor • Sealed vacuum, 68” • 2 Quart Dirt/water capacity • 98 CFM • Nano Silver Technology to reduce Odors • Dry and Wet Pickup • Only Weighs: 14 LBS • State of the art Water Filtration • 10ft cleaning radius
 
 
+**GETTING TO KNOW THE PARTS**
+
+
+
