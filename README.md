@@ -124,7 +124,7 @@ person’s skin is wet.
 $${\color{red}**ATTENTION**}$$  
 
 It is not recommended to use the OceanBlue for cleaning chimneys or open stoves, or other devices that have oil or grease, for example, soot or ashes, clay dust, plaster or other similar materials that are resistant to water action. It must not be used for vacuuming toxic or volatile substances or near any of these PRECAUTIONS WHEN VACUUMING LIQUIDS Always consider the following precautions:
-Always consider the following precautions:
+**Always consider the following precautions**:
 **DO NOT** operate the machine with wet hands or feet or barefoot.
 **NEVER use** OceanBlue to clean up liquids outdoors, upon an earth floor.
 **NEVER** vacuum liquids with OceanBlue when you are stepping on water or a wet floor. If it should be necessary to step on a wet or damp floor to pick up water, do not touch the metallic parts of ANY electric device, lamp or switch while performing this operation.
@@ -133,21 +133,37 @@ operations.
 • The water container must be empty before you begin picking up liquids. 
 **DO NOT** vacuum more than 1.9 liters (2 quarts); the water level MUST NEVER be above the central post.
 Excess water in the water container will cause shaking and vibration. If this occurs, the vibrations are your warning that the water container is overfilled.
-**SPECIAL CARE & SAFETY INSTRUCTIONS** 
+
+
+
+**SPECIAL CARE & SAFETY INSTRUCTIONS**
+
+
+
 **WATER**:**Do not** operate the OceanBlue for too long without changing the water. When you notice that the water is getting too full of dust and fuzz, throw it away and replace it with clean water.
 
 **WATER CONTAINER**: 
+
+
+
 When you finish cleaning your house, be careful to put away the OceanBlue‘s motor apart from the water container between uses. ALWAYS empty the water container after each use.
 **THE HYDROTURBINE IS THE HEART OF YOUR MACHINE**  Unplug the OceanBlue from the power outlet. Remove and clean the  HydroTurbine after each use. Wash it inside and out with water and soap, using the brush provided. Dry it and put in place again. Tighten the nut by hand until the fl at surface of the HydroTurbine is properly adjusted. Do not over tighten, as the HydroTurbine automatically tightens upon starting the machine. The HydroTurbine is the key for separating the dirty water from the airflow and proper care is important for the performance of your appliance. If the HydroTurbine should become damaged (CHIPPED OR BROKEN), replace the HydroTurbine with a factory made turbine from your Service Center. 
 
 **WARNING**: The OceanBlue must NEVER be used without the HydroTurbine. Always place it back after cleaning it.
 
 **SERVICING OF DOUBLE INSULATED APPLIANCES**: 
+
+
+
 For your safety and protection, your  OceanBlue is a DOUBLE INSULATED appliance. 
 **NEVER** attempt service on the electrical parts of the appliance EXCEPT at your OceanBlue Service Center. There are special requirements for servicing DOUBLE INSULATED appliances. Failure to do so can cause safety hazards with your unit.
 
 **OPERATION AND HANDLING**
+
+
 **General  guidelines for using OceanBlue**:
+
+
 Fill up the water container with cold water until it almost covers the top of the central post: correct quantity of water 2.365 liters (2.5 quarts). (fig.1) The motor unit is placed on top of the water container (fi g.2). The air intake should be lined up
 with the notch in the motor unit. The edge of the motor unit should be firmly rest on the top of the water container and be inside of the retaining ring for correct location, otherwise, the machine will not work. Engage the two clamps and raise the upper part of the clamps together. Place the machine on top of the wheeled base. Note: The clamps will not operate properly if the motor unit is not in the proper position on the water container. If the clamps do not operate easily, check the location of the motor unit.
 Insert the plastic wand into the curved wand with the OceanBlue hose (fi g.3) until the button fits in place. Insert the plastic end of the OceanBlue hose into the vacuum air intake as shown (fi g.4), rotating it to right. To disconnect, rotate it to the left and pull it towards you.
@@ -182,6 +198,8 @@ Fits nearly any standard vacuum.
 
 
 #### USING YOUR VACUUM ####
+
+
 **REMEMBER THE FOLLOWING WHEN USING YOUR VACUUM CLEANER**:
 
 
@@ -208,6 +226,8 @@ parts they replace.
 All service operations, other than cleaning, must be done by an authorized service agent of OceanBlue.
 
 **Troubleshooting for Electric Power Nozzle**
+
+
 Problem – electric power nozzle does not power up (motor does not turn on in power nozzle). Solution –
 
 
