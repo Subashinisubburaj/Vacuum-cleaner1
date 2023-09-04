@@ -42,4 +42,20 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 
 ![image](https://github.com/Subashinisubburaj/Vacuum-cleaner1/assets/143898301/ebb3dc17-09b7-4feb-8fc5-3cc55189351e)
 
+##### 1. Power Button 16. Suction Relief Valve
+##### 2. Hose/Cord Hanger 17. Tool Hose/Wet Pickup
+##### 3. Blower Output on Back 18. Mini Turbo w/Spinning Brush roll
+##### 4. Water Bowl Latch 19. Handheld Shampoo
+##### 5. Friction Fit Caddy (Also Holds Tools) 20. Blower/Coil Cleaner
+##### 6. Water Basin 21. 32 mm Tool Kit
+##### 7. Power Hose Plug
+##### 8. Electric Main Hose
+##### 9. Power Head Switch
+##### 10. Handle Release
+##### 11. Extendable Wand Button
+##### 12. Wand Release Pedal
+##### 13. Electric Power Nozzle
+##### 14. Rubber Bumper
+##### 15. Pivot Release
+
 
