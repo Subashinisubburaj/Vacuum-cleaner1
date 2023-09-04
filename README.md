@@ -63,5 +63,29 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 ##### 18. Mini Turbo w/Spinning Brush roll
 ##### 19. Handheld Shampoo
 ##### 20. Blower/Coil Cleaner
-      
+
+**IMPORTANT SAFETY INSTRUCTIONS**
+**When using an electrical appliance, basic precautions should always be followed, including the following:  READ ALL INSTRUCTIONS BEFORE USING THIS APPLIANCE WARNING: To reduce the risk of fire, electric shock, or injury:**
+
+1. The switch used for controlling the appliance must be pushed to start and pushed to stop.
+2. This appliance is for indoor use only. Do not store in wet places.
+3. This appliance is for household use only.
+4. **DO NOT** let children use the OceanBlue without adult supervision. This appliance is not a toy.
+5. **DO NOT** leave appliance unattended when plugged in. Unplug from outlet when not in use and before emptying the water container.
+6. **USE ONLY** as described in this manual. Use only manufacturer’s recommended attachments.
+7. **DO NOT** use with damaged cord or plug. If appliance is not working as it should, has been dropped, damaged, left outdoors, or dropped into water, return it to a service center.
+8. **DO NOT** pull or carry by the cord, use cord as a handle, close a door on cord, or pull cord around sharp edges or corners. Do not run appliance over cord. Keep cord away from heated surfaces.
+9. **DO NOT** unplug by pulling on cord. To unplug, grasp the plug, not the cord.
+10. **DO NOT** handle plug or appliance with wet hands.
+11. **DO NOT** put any objects into openings. Do not use with any opening blocked; keep free of dust,lint, hair and anything that may reduce air flow.
+12. **KEEP HAIR**, loose clothing, fingers, and all parts of body away from openings and moving parts.
+13. **USE EXTRA** care when cleaning on stairs.
+14. **NEVER** use to pick up flammable or combustible liquids such as gasoline or use in areas where they may be present. See section PRECAUTIONS WHEN VACUUMING LIQUIDS.
+15. **ALWAYS turn off** this appliance before connecting or disconnecting either hose or motorized nozzle (optional).
+16. **TURN OFF** all controls before unplugging.
+17. This appliance is provided with DOUBLE INSULATION. Use only identical replacement parts. See instructions for SERVICING OF DOUBLE INSULATED APPLIANCES.
+18. **DO NOT** pick up anything that is burning or smoking, such as cigarettes, matches or hot ashes.
+19. Before turning on this appliance, make sure the machine is tightly secured by the clamps to the water container. Failure to do this could cause a risk of injury to persons and would defeat the utility of the appliance.
+20. Your OceanBlue is provided with a safety interlock switch to prevent operating the appliance without attaching the water container to the appliance. Because the turbine operates at high speed, this is to protect you from coming into contact with the moving HydroTurbine.
+
 
