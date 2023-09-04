@@ -115,6 +115,7 @@ operations.
 Excess water in the water container will cause shaking and vibration. If this occurs, the vibrations are your warning that the water container is overfilled.
 # SPECIAL CARE & SAFETY INSTRUCTIONS 
 **WATER**:**Do not** operate the OceanBlue for too long without changing the water. When you notice that the water is getting too full of dust and fuzz, throw it away and replace it with clean water.
+
 **WATER CONTAINER**: 
 When you finish cleaning your house, be careful to put away the OceanBlue‘s motor apart from the water container between uses. ALWAYS empty the water container after each use.
 
