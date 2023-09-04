@@ -151,6 +151,20 @@ $${\color{red}**WARNING:**}$$
 
 The HydroTurbine must always be positioned back in its place immediately after you clean it. Do not operate the machine without the HydroTurbine.
 
+####Using The Attachments####
+
+**Floor Tool (Fig 1)**: Soft natural fill which supports the brush over hard floors and makes it easily maneuverable over uneven surfaces, without damaging the finish. It has wide cleaning opening which captures large debris and delivers effective cleaning power to the far edges of the tool.
+**Duster Brush (Fig 2)**: The Dusting Brush is used for all types of furniture.
+**Crevice Tool (Fig 3)**: Use for cleaning radiators, cracks & crevices along corners, and baseboards and in-between cushions.
+**Upholstery Tool (Fig 4)**: Designed to clean the dirt that becomes embedded in your furniture and limits the life of the fabric. The tool also comes with slide on bristles, so you can use it on hard furniture, dusting or to add a more aggressive surface to your tool which can help in removing pet hair that is entangled in your fabric.
+**Mini Turbo (Fig 5)**: This is the best pet hair tool in the business! Perfect tool for upholstery, stairs and hard to reach places. This is the deluxe model with a geared belt which reduces slippage and increases the life of your tool. Brush roll is designed to sweep debris to middle of head for easy pick up. The swiveling bottom plate allows you to use this on your floors as well.
+Fits nearly any standard vacuum. 
+
+
+####USING YOUR VACUUM####
+
+
+
 
 
 
