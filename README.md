@@ -151,7 +151,7 @@ $${\color{red}**WARNING:**}$$
 
 The HydroTurbine must always be positioned back in its place immediately after you clean it. Do not operate the machine without the HydroTurbine.
 
-####Using The Attachments####
+#### Using The Attachments ####
 
 **Floor Tool (Fig 1)**: Soft natural fill which supports the brush over hard floors and makes it easily maneuverable over uneven surfaces, without damaging the finish. It has wide cleaning opening which captures large debris and delivers effective cleaning power to the far edges of the tool.
 **Duster Brush (Fig 2)**: The Dusting Brush is used for all types of furniture.
@@ -161,7 +161,51 @@ The HydroTurbine must always be positioned back in its place immediately after y
 Fits nearly any standard vacuum. 
 
 
-####USING YOUR VACUUM####
+#### USING YOUR VACUUM ####
+**REMEMBER THE FOLLOWING WHEN USING YOUR VACUUM CLEANER**:
+The functioning of your new cleaning equipment greatly depends on the maintenance given at home. Only use your OceanBlue equipment according to the instructions provided in this manual.
+• Before using the machine pick up by hand any hard or sharp objects such as pins,
+hairpins, thumbtacks, pieces of pencil, etc. that could harm the spinning brush roll.
+• **Do not** lubricate the motor. The motor has permanent lubrication and is sealed.
+• Shut down the machine before connecting hose.
+• **Do not** use the machine to clean chimneys, open stoves, or other materials containing
+oils, grease, soot, ashes, clay dust, plaster or other water-resistant materials.
+• It must not be used either to vacuum volatile or toxic substances, nor to be operated
+near them.
+• SERVICING OF DOUBLE-INSULATED APPLICANCES
+• A double-insulated appliance is marked with one or more of the following: The words
+“DOUBLE INSULATION” or “DOUBLE INSULATED” or the double insulation symbol
+(square within a square) .
+• In a double-insulated appliance, two systems of insulation are provided instead
+of grounding. No grounding means its provided on a double-insulated
+appliance, nor should a means for grounding be added to the appliance.
+Servicing a double-insulated appliance requires extreme care and knowledge
+of the system and should be done only by qualified service personnel.
+• Replacement parts for a double-insulated appliance must be identical to the
+parts they replace.
+All service operations, other than cleaning, must be done by an authorized service agent of OceanBlue.
+
+**Troubleshooting for Electric Power Nozzle**
+Problem – electric power nozzle does not power up (motor does not turn on in power nozzle). Solution –
+
+
+**Please follow all the steps below and try again**:
+
+a. Unplug cord from power nozzle on hose, count 20 seconds and plug back in.
+b. Make sure the brush roll can roll freely and nothing is obstructing it.
+c. Make sure hose is firmly “snapped” into canister.
+d. Make sure main electrical wand is firmly “snapped” all the way to the hose.
+e. Make sure main electrical wand is firmly “snapped” all the way into the power nozzle.
+f. For models with reset button, firmly press reset button on electrical power nozzle.
+g. On the hose is an on/off switch. Make sure that it is turned to on.
+h. On the Power Nozzle there is an on/off button; make sure that is turned on as well. If you plug the power nozzle directly into the hose and it turns on (but won’t turn on with main wand attached,) then you know the main wand is defective or a connection needs adjusting (see last problem below).
+Problem – electric power nozzle turns on, but brush roll does not spin.
+Solution – Most likely a large object may have been vacuumed up, jammed the brush roll and broke the belt.
+Remove bottom plate of the power nozzle, check or replace belt, remove obstruction and try again.
+Problem – electric power nozzle cuts in and out as you vacuum back and forth.
+Solution – There are several connections to get power to the power nozzle, they are: 1) the hose and canister, 2) the hose and main wand and 3) the main wand and power head. Make sure each of these is  firmly connected. If you have traced the ‘cutting out’ problem to one of these areas and they are firmly connected, then when the vacuum is unplugged from the wall, you may take a pair of needle-nose pliers and slightly bend the male terminal out, so it has a better connection. 
+
+
 
 
 
