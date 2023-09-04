@@ -14,7 +14,7 @@ The deep dirt left in the carpet acts like little knives and slowly cuts the tuf
 
 ### Index ................................................................................................2 - 3
 ### Optional Accessories   ………………………………………………………………………………………………..3
-# Technical Specifications .............................................................................................. 4
+#### Technical Specifications .............................................................................................. 4
 # Get to Know the Parts of Your OceanBlue Vacuum Cleaner .......................................... 5
 # Important Safety Instructions ........................................................................................ 6
 # General Precautions and Recommendations ................................................................ 7
