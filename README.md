@@ -148,7 +148,8 @@ and remove motor.
 Take out the turbine after each use and wash it inside and out with water and soap, using the special supplied tool. Dry it and put it back in its place. Tighten the nut by hand until the turbine is seated and the rim is flush with the rim of the metal casting of the motor. Do not over tighten, as the HydroTurbine automatically tightens up on starting the machine.
 
 $${\color{red}**WARNING:**}$$
- The HydroTurbine must always be positioned back in its place immediately after you clean it. Do not operate the machine without the HydroTurbine.
+
+The HydroTurbine must always be positioned back in its place immediately after you clean it. Do not operate the machine without the HydroTurbine.
 
 
 
