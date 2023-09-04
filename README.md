@@ -10,7 +10,11 @@ If you find that you are having to empty the water pan more often than you think
 
 The deep dirt left in the carpet acts like little knives and slowly cuts the tufts of the carpets at the bottom as you walk on the carpet.**You may see a lot of “fuzz” coming up from the carpet in the beginning, but by removing this deep dirt, you are increasing the life of your carpet**.Remember that the OceanBlue filtration system does not clog up the airflow as you use it. You still have full power right up to when to empty the water pan.
 
+
+
 **TABLE OF CONTENTS**
+
+
 
 ##### Index .......................................................2 - 3
 ##### Optional Accessories   ………………………………………………………………………………………………..3
@@ -30,8 +34,12 @@ The deep dirt left in the carpet acts like little knives and slowly cuts the tuf
 ##### Troubleshoot ……………………………………………………………………………………………………… 15-16
 
 
+
+
 **OPTIONAL ACCESSORIES Prolux Storm**
 The Prolux Storm has incorporated an electronically driven brush roll to this universal shampoo system. This design allows the shampoo system to agitate the surface which improves cleaning ability exponentially. This model works just like your regular power nozzle does, so all you must do is fill it up, and vacuum like you normally would. Offers much higher power output than other shampooers on the market and offers self-adjusting brush roll height so you can easily move between surfaces. The self-adjusting design is exceptionally convenient when using on tile because it allows the brush roll to drop into and scrub grouted areas. OceanBlue Water Based Air Purifier: This works as a humidifier, deodorizer, purifier, aromatherapy and fragrance machine. For aromatherapy or to use as an air freshener, add a few drops of fragrance into the water bowl and turn on. This OceanBlue also works as a humidifier by pushing moisture into the air and leaving the impurities behind in the water bowl to be disposed of. The best park is that this purifier does not over dispense moisture, so you will never have to worry about water left behind and is safe to use in any area! Stair Pro Electric Mini Turbo: Quick connect button lock to attach to your wand or vacuum handle. Brush roll is powered by durable electric motor and a geared belt that will last the lifetime of the tool. If you have pet hair you need to vacuum up this is a must! Not only do they last for many years but they deep clean better than almost anything.
+
+
 
 **TECHNICAL SPECIFICATIONS**
 
@@ -171,6 +179,8 @@ Fits nearly any standard vacuum.
 
 #### USING YOUR VACUUM ####
 **REMEMBER THE FOLLOWING WHEN USING YOUR VACUUM CLEANER**:
+
+
 The functioning of your new cleaning equipment greatly depends on the maintenance given at home. Only use your OceanBlue equipment according to the instructions provided in this manual.
 • Before using the machine pick up by hand any hard or sharp objects such as pins,
 hairpins, thumbtacks, pieces of pencil, etc. that could harm the spinning brush roll.
