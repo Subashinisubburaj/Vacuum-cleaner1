@@ -64,8 +64,12 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 ##### 19. Handheld Shampoo
 ##### 20. Blower/Coil Cleaner
 
+
+
 **IMPORTANT SAFETY INSTRUCTIONS**
 **When using an electrical appliance, basic precautions should always be followed, including the following:  READ ALL INSTRUCTIONS BEFORE USING THIS APPLIANCE WARNING: To reduce the risk of fire, electric shock, or injury:**
+
+
 
 1. The switch used for controlling the appliance must be pushed to start and pushed to stop.
 2. This appliance is for indoor use only. Do not store in wet places.
