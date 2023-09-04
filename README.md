@@ -101,6 +101,7 @@ person’s skin is wet.
 • Take special care when cleaning stairs
 
 
-$${\color{red}**ATTENTION**}$$: It is not recommended to use the OceanBlue for cleaning chimneys or open stoves, or other devices that have oil or grease, for example, soot or ashes, clay dust, plaster or other similar materials that are resistant to water action. It must not be used for vacuuming toxic or volatile substances or near any of these PRECAUTIONS WHEN VACUUMING LIQUIDS Always consider the following precautions:
+$${\color{red}**ATTENTION**}$$  
+It is not recommended to use the OceanBlue for cleaning chimneys or open stoves, or other devices that have oil or grease, for example, soot or ashes, clay dust, plaster or other similar materials that are resistant to water action. It must not be used for vacuuming toxic or volatile substances or near any of these PRECAUTIONS WHEN VACUUMING LIQUIDS Always consider the following precautions:
 
 
