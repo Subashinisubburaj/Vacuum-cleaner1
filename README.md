@@ -139,6 +139,18 @@ Insert the plastic wand into the curved wand with the OceanBlue hose (fi g.3) un
 1. Release both clamps by pulling the upper part of the clamp assembly down
 and remove motor.
 2. Pickup the water container by the vacuum intake end and empty the water.
+3. Place the heavier particles in the bottom of the water container in a trash can (such as wet fuzz).
+4. Wash, rinse and dry the water  container
+5. Keep the motor apart from the  water container until next use.
+
+**Care of HydroTurbine**:
+
+Take out the turbine after each use and wash it inside and out with water and soap, using the special supplied tool. Dry it and put it back in its place. Tighten the nut by hand until the turbine is seated and the rim is flush with the rim of the metal casting of the motor. Do not over tighten, as the HydroTurbine automatically tightens up on starting the machine.
+
+$${\color{red}**WARNING:**}$$
+ The HydroTurbine must always be positioned back in its place immediately after you clean it. Do not operate the machine without the HydroTurbine.
+
+
 
 
 
