@@ -3,6 +3,7 @@
 
 ![s-l400](https://github.com/Subashinisubburaj/Vacuum-cleaner1/assets/143898301/a2eea790-1a53-4f5d-8172-70f064a811e2)
 
+
 ***Welcome to the clean world of ocean blue*** Dear Customer!
 
 Thank you for your confidence in our product. It is our goal to bring you into the clean world of OceanBlue.**If you have been using a “Conventional” cleaning system for dirt removal you might be in for surprise**.
