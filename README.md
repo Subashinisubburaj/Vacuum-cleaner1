@@ -104,5 +104,18 @@ person’s skin is wet.
 $${\color{red}**ATTENTION**}$$  
 
 It is not recommended to use the OceanBlue for cleaning chimneys or open stoves, or other devices that have oil or grease, for example, soot or ashes, clay dust, plaster or other similar materials that are resistant to water action. It must not be used for vacuuming toxic or volatile substances or near any of these PRECAUTIONS WHEN VACUUMING LIQUIDS Always consider the following precautions:
+Always consider the following precautions:
+**DO NOT** operate the machine with wet hands or feet or barefoot.
+**NEVER use** OceanBlue to clean up liquids outdoors, upon an earth floor.
+**NEVER** vacuum liquids with OceanBlue when you are stepping on water or a wet floor. If it should be necessary to step on a wet or damp floor to pick up water, do not touch the metallic parts of ANY electric device, lamp or switch while performing this operation.
+**DO NOT** carry the machine with your hand while using the machine for cleaning
+operations.
+• The water container must be empty before you begin picking up liquids. 
+**DO NOT** vacuum more than 1.9 liters (2 quarts); the water level MUST NEVER be above the central post.
+Excess water in the water container will cause shaking and vibration. If this occurs, the vibrations are your warning that the water container is overfilled.
+# SPECIAL CARE & SAFETY INSTRUCTIONS 
+## WATER: **Do not** operate the OceanBlue for too long without changing the water. When you notice that the water is getting too full of dust and fuzz, throw it away and replace it with clean water
+
+
 
 
