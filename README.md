@@ -88,8 +88,9 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 19. Before turning on this appliance, make sure the machine is tightly secured by the clamps to the water container. Failure to do this could cause a risk of injury to persons and would defeat the utility of the appliance.
 20. Your OceanBlue is provided with a safety interlock switch to prevent operating the appliance without attaching the water container to the appliance. Because the turbine operates at high speed, this is to protect you from coming into contact with the moving HydroTurbine.
 
-**GENERAL PRECAUTIONS & RECOMMENDATIONS**               $${\color{red}**IMPORTANT**}$$
+**GENERAL PRECAUTIONS & RECOMMENDATIONS**               
 
+$${\color{red}**IMPORTANT**}$$
 
 Please read all instructions before using this machine and keep this manual always at hand. Follow the instructions manual for the Ocean Blue‘s. Do not try to use it otherwise. The use of non-authorized accessories by OceanBlue could be dangerous. See section 
 **SERVICING OF DOUBLE INSULATED APPLIANCE**
