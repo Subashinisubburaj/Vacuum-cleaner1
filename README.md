@@ -90,6 +90,7 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 
 **GENERAL PRECAUTIONS & RECOMMENDATIONS**
 
-@@ text in purple (and bold)@@ IMPORTANT
+@@IMPORTANT in RED
+@@ text in purple (and bold)@@
 
 
