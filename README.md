@@ -70,7 +70,7 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 1. The switch used for controlling the appliance must be pushed to start and pushed to stop.
 2. This appliance is for indoor use only. Do not store in wet places.
 3. This appliance is for household use only.
-4. **DO NOT** let children use the OceanBlue without adult supervision. This appliance is not a toy.
+4. ****DO NOT**** let children use the OceanBlue without adult supervision. This appliance is not a toy.
 5. **DO NOT** leave appliance unattended when plugged in. Unplug from outlet when not in use and before emptying the water container.
 6. **USE ONLY** as described in this manual. Use only manufacturer’s recommended attachments.
 7. **DO NOT** use with damaged cord or plug. If appliance is not working as it should, has been dropped, damaged, left outdoors, or dropped into water, return it to a service center.
