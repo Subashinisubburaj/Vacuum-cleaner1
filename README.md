@@ -114,7 +114,7 @@ operations.
 **DO NOT** vacuum more than 1.9 liters (2 quarts); the water level MUST NEVER be above the central post.
 Excess water in the water container will cause shaking and vibration. If this occurs, the vibrations are your warning that the water container is overfilled.
 # SPECIAL CARE & SAFETY INSTRUCTIONS 
-####### **WATER**:  **Do not** operate the OceanBlue for too long without changing the water. When you notice that the water is getting too full of dust and fuzz, throw it away and replace it with clean water.
+#######**WATER**:  **Do not** operate the OceanBlue for too long without changing the water. When you notice that the water is getting too full of dust and fuzz, throw it away and replace it with clean water.
 
 
 
