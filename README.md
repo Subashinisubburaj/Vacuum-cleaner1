@@ -89,7 +89,6 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 20. Your OceanBlue is provided with a safety interlock switch to prevent operating the appliance without attaching the water container to the appliance. Because the turbine operates at high speed, this is to protect you from coming into contact with the moving HydroTurbine.
 
 **GENERAL PRECAUTIONS & RECOMMENDATIONS**
-
 $${\color{red} **IMPORTANT**}$$
 
 
