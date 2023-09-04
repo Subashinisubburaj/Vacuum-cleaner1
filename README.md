@@ -94,11 +94,13 @@ $${\color{red}**IMPORTANT**}$$
 
 Please read all instructions before using this machine and keep this manual always at hand. Follow the instructions manual for the Ocean Blue‘s. Do not try to use it otherwise. The use of non-authorized accessories by OceanBlue could be dangerous. See section 
 **SERVICING OF DOUBLE INSULATED APPLIANCE**
-• DO NOT plug the OceanBlue into the receptacle of an incandescent light bulb, nor use extensions cords with less electrical capacity than needed.
+**DO NOT** plug the OceanBlue into the receptacle of an incandescent light bulb, nor use extensions cords with less electrical capacity than needed.
 • The OceanBlue must not be used to clear sewers. An explosion may occur if the machine suctions sewer gases.
 • You must NEVER touch a metallic kitchen sink or washbasin or water pipelines with one hand while holding the machine with the other hand. The danger is greater if the
 person’s skin is wet.
 • Take special care when cleaning stairs
+
+
 $${\color{red}**ATTENTION**}$$: It is not recommended to use the OceanBlue for cleaning chimneys or open stoves, or other devices that have oil or grease, for example, soot or ashes, clay dust, plaster or other similar materials that are resistant to water action. It must not be used for vacuuming toxic or volatile substances or near any of these PRECAUTIONS WHEN VACUUMING LIQUIDS Always consider the following precautions:
 
 
