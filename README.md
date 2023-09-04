@@ -67,6 +67,8 @@ The Prolux Storm has incorporated an electronically driven brush roll to this un
 
 
 **IMPORTANT SAFETY INSTRUCTIONS**
+
+
 **When using an electrical appliance, basic precautions should always be followed, including the following:  READ ALL INSTRUCTIONS BEFORE USING THIS APPLIANCE WARNING: To reduce the risk of fire, electric shock, or injury:**
 
 
