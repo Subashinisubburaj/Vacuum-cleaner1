@@ -11,3 +11,20 @@ If you find that you are having to empty the water pan more often than you think
 The deep dirt left in the carpet acts like little knives and slowly cuts the tufts of the carpets at the bottom as you walk on the carpet.**You may see a lot of “fuzz” coming up from the carpet in the beginning, but by removing this deep dirt, you are increasing the life of your carpet**.Remember that the OceanBlue filtration system does not clog up the airflow as you use it. You still have full power right up to when to empty the water pan.
 
 **TABLE OF CONTENTS**
+
+# Index ........................................................................................................................... 2 - 3
+# Optional Accessories   ………………………………………………………………………………………………..3
+# Technical Specifications .............................................................................................. 4
+# Get to Know the Parts of Your OceanBlue Vacuum Cleaner .......................................... 5
+# Important Safety Instructions ........................................................................................ 6
+# General Precautions and Recommendations ................................................................ 7
+# Precautions when Vacuuming Liquids .......................................................................... 7
+# Special Care and Safety Instructions ............................................................................ 8
+# Servicing of Double Insulated Appliances .................................................................... 8
+# HydroTurbine Care…………………………………………………………………………………………………… 9
+# Operation and Handling……………………………………………………………………………………………. 10
+# Water container/HydroTurbine………………………………………………………………………………… 11
+# Using the attachments…………………………………………………………………………………...... 12
+# Using your Vacuum…………………………………………………………………………………………….. 13
+# Warranty …………………………………………………………………………………………………………….. 14
+# Troubleshoot ……………………………………………………………………………………………………… 15-16
