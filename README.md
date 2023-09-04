@@ -15,7 +15,6 @@ The deep dirt left in the carpet acts like little knives and slowly cuts the tuf
 **TABLE OF CONTENTS**
 
 
-
 ##### Index .......................................................2 - 3
 ##### Optional Accessories   ………………………………………………………………………………………………..3
 ##### Technical Specifications .............................................................................................. 4
@@ -183,6 +182,8 @@ and remove motor.
 5. Keep the motor apart from the  water container until next use.
 
 **Care of HydroTurbine**:
+
+
 
 Take out the turbine after each use and wash it inside and out with water and soap, using the special supplied tool. Dry it and put it back in its place. Tighten the nut by hand until the turbine is seated and the rim is flush with the rim of the metal casting of the motor. Do not over tighten, as the HydroTurbine automatically tightens up on starting the machine.
 
