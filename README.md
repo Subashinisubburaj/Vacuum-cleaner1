@@ -3,7 +3,7 @@ A vacuum cleaner, also known simply as a vacuum or a hoover, is a device that ca
 
 ![s-l400](https://github.com/Subashinisubburaj/Vacuum-cleaner1/assets/143898301/a2eea790-1a53-4f5d-8172-70f064a811e2)
 
-***Welcome to the clean world of ocean blue***
+***Welcome to the clean world of ocean blue*** Dear Customer!
 Thank you for your confidence in our product. It is our goal to bring you into the clean world of OceanBlue.**If you have been using a “Conventional” cleaning system for dirt removal you might be in for surprise**.
 If you find that you are having to empty the water pan more often than you think that you should, be aware that, in the beginning, you are picking up more dirt because of the deep dirt that is in your carpets that was not removed before. After using the OceanBlue for a short time in regular use, you should find that the amount of dirt will taper off to more “normal” expectations.You should be aware that deep dirt is the enemy of carpets.
 
