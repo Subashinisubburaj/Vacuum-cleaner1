@@ -133,6 +133,14 @@ with the notch in the motor unit. The edge of the motor unit should be firmly re
 Insert the plastic wand into the curved wand with the OceanBlue hose (fi g.3) until the button fits in place. Insert the plastic end of the OceanBlue hose into the vacuum air intake as shown (fi g.4), rotating it to right. To disconnect, rotate it to the left and pull it towards you.
 
 
+##WATER CONTAINER / HYDROTURBINE##
+
+***To empty the water container***:
+1. Release both clamps by pulling the upper part of the clamp assembly down
+and remove motor.
+2. Pickup the water container by the vacuum intake end and empty the water.
+
+
 
 
 
